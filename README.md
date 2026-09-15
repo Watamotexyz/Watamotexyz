@@ -1,7 +1,11 @@
 ## watamote.xyz
 
-Reverse engineering · C++ · TypeScript
+I build, analyze and understand software.
 
-[watashop.xyz](https://watashop.xyz)
+Reverse Engineering · Cybersecurity · Low-Level Development
 
-<!-- profile -->
+C/C++ · Rust · Python · TypeScript · JavaScript · Web · Databases
+
+Tools · Automation · Bots · Applications · Custom Software
+
+Creator of [watashop.xyz](https://watashop.xyz/?utm_source=chatgpt.com)
